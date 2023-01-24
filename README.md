@@ -1,6 +1,7 @@
 <div id = "header" alin = "center">
   <img src="https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif width= "200" />
   <h1 align = "center"> Hi there👋, I'm Alamdor </h1>
+</div>
 
 
 <!--
