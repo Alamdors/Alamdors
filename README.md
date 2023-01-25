@@ -22,7 +22,7 @@
 <a href="https://twitter.com/alamdor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamdor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alamdor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamdor" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alamdor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alamdor" height="30" width="40" /></a>
-<a href="https://instagram.com/@alamdors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alamdors" height="30" width="40" /></a>
+<a href="https://instagram.com/alamdors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alamdors" height="30" width="40" /></a>
 <a href="https://discord.gg/Alamdor#9763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alamdor#9763" height="30" width="40" /></a>
 </p>
 
